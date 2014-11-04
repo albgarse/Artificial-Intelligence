@@ -1,8 +1,3 @@
-InteligenciaArtificial
-======================
-
-Algoritmos IA
-
 Búsqueda no informada
 =====================
 Algoritmos de búsqueda en arboles.
