@@ -1,4 +1,5 @@
-﻿import math
+﻿# Heurística voraz para resolver TSP 
+import math
 from operator import itemgetter
 
 def distancia(coord1, coord2):

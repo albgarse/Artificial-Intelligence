@@ -1,4 +1,5 @@
-﻿import math
+﻿# Algoritmo de búsqueda tabu para resolver TSP 
+import math
 import random
 
 def distancia(coord1, coord2):

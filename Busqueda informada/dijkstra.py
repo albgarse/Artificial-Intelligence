@@ -1,3 +1,4 @@
+# Algoritmo de dijkstra
 import sys
 
 def dijkstra(grafo, nodo_inicial):

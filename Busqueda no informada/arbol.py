@@ -1,4 +1,5 @@
-﻿class Nodo:
+﻿# clase para manipulación de nodos de un árbol
+class Nodo:
   def __init__(self, datos, hijos=None):
     self.datos = datos
     self.hijos = None

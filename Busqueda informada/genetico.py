@@ -1,4 +1,5 @@
-﻿import math
+﻿# Algoritmo genético para resolver problema SAT
+import math
 import random
 
 def poblacion_inicial(max_poblacion, num_vars):

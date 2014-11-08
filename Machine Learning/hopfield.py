@@ -1,4 +1,4 @@
-﻿# Red de Hopfield
+﻿# Red neuronal de Hopfield
 # reconoce los caracteres 0,1 y 2
 
 # transformar representación gráfica en valores -1 y +1
