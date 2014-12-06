@@ -1,11 +1,11 @@
 Búsqueda no informada
 =====================
-Algoritmos de búsqueda en arboles.
+Algoritmos de búsqueda en árboles.
 
 
 Búsqueda informada
 ==================
-Algoritmos de búsqueda informada en arboles. Backtracking, A* y heuristicos.
+Algoritmos de búsqueda informada en árboles. Backtracking, A* y heurísticos.
 
 
 IA para juegos
