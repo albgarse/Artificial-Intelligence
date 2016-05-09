@@ -92,7 +92,7 @@ def comprueba_linea(tablero, n, jugador):
 
       for k in range(n):
         cuaterna1.append(tablero[i+j+k][j+k])
-        cuaterna2.append(tablero[i+j][i+j+k])
+        cuaterna2.append(tablero[j+k][i+j+k])
         cuaterna3.append(tablero[i+j+k][6-(j+k)])
         cuaterna4.append(tablero[j+k][6-(i+j+k)])
 
@@ -101,8 +101,8 @@ def comprueba_linea(tablero, n, jugador):
         if ganador==jugador:
           num_lineas=num_lineas+1;
 
-      elif cuaterna2==[cuaterna2[0]]*n and tablero[i+j][i+j]!=0:
-        ganador = tablero[i+j][i+j]
+      elif cuaterna2==[cuaterna2[0]]*n and tablero[j][i+j]!=0:
+        ganador = tablero[j][i+j]
         if ganador==jugador:
           num_lineas=num_lineas+1;
 
